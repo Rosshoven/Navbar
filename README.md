@@ -1,4 +1,4 @@
-<img src="Navbar.jpg" width="200">
+<img src="Navbar.jpg" width="500" height="200">
                            
 
 # Navbar
