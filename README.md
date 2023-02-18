@@ -1,5 +1,5 @@
+# Navbar
+
 <img src="Navbar.jpg" width="auto">
                            
-
-# Navbar
-Navbar exercise from MIT xPro Mod 17
+## Navbar exercise from MIT xPro Mod 17
